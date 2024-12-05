@@ -28,7 +28,6 @@ Follow these steps to set up and run the Planet CRUD app locally:
 
 If you haven't already, clone the repository to your local machine using Git:
 
-```bash
 git clone https://github.com/bkyncl/Planet_CRUD.git
 
 ### 2. Move Files to Local Server Directory

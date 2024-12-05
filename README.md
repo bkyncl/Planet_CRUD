@@ -56,6 +56,7 @@ CREATE USER 'student1'@'localhost' IDENTIFIED BY 'pass';
 GRANT ALL PRIVILEGES ON astronomy_db.* TO 'student1'@'localhost';
 
 FLUSH PRIVILEGES;
+```
 
 ### 4. Start Your Local Server
 
